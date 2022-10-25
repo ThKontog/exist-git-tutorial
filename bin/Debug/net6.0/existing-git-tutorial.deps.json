@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "existing-git-tutorial/1.0.0": {
+        "runtime": {
+          "existing-git-tutorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "existing-git-tutorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

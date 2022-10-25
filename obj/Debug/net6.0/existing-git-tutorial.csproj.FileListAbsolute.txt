@@ -1,0 +1,15 @@
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\existing-git-tutorial.csproj.AssemblyReference.cache
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\existing-git-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\existing-git-tutorial.AssemblyInfoInputs.cache
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\existing-git-tutorial.AssemblyInfo.cs
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\existing-git-tutorial.csproj.CoreCompileInputs.cache
+C:\C#\GitHub\existing-git-tutorial\bin\Debug\net6.0\existing-git-tutorial.exe
+C:\C#\GitHub\existing-git-tutorial\bin\Debug\net6.0\existing-git-tutorial.deps.json
+C:\C#\GitHub\existing-git-tutorial\bin\Debug\net6.0\existing-git-tutorial.runtimeconfig.json
+C:\C#\GitHub\existing-git-tutorial\bin\Debug\net6.0\existing-git-tutorial.dll
+C:\C#\GitHub\existing-git-tutorial\bin\Debug\net6.0\ref\existing-git-tutorial.dll
+C:\C#\GitHub\existing-git-tutorial\bin\Debug\net6.0\existing-git-tutorial.pdb
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\existing-git-tutorial.dll
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\ref\existing-git-tutorial.dll
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\existing-git-tutorial.pdb
+C:\C#\GitHub\existing-git-tutorial\obj\Debug\net6.0\existing-git-tutorial.genruntimeconfig.cache
